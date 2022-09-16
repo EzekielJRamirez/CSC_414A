@@ -1,0 +1,15 @@
+To send code to github
+git add --all
+git commit -m "My comment"
+git push
+
+To download code
+git pull
+
+Helpful shortcut commands -- feel free to correct any of these
+ctrl alt l --> cleans all line of code
+ctrl d --> duplicates current line of code
+shift f10 --> play specified page of code
+ctrl shift f10 --> play page of code currently looked at
+shift enter --> open a blank line even if you were in the middle of another line
+ctrl / --> comment a line of code, can be used after highlighting multiple lines
